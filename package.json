@@ -25,6 +25,7 @@
     "@discordjs/opus": "^0.3.3",
     "discord.js": "^12.3.1",
     "distube": "^2.5.1",
+    "git": "^0.1.5",
     "node-gyp": "^8.2.0",
     "opusscript": "0.0.8",
     "rebuild": "^0.1.2"
