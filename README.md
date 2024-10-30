@@ -1,5 +1,5 @@
 # Syno-M-lodious 🎵
-Welcome to [Syno-M-lodious](https://github.com/BlackNinjaKR/Syno-M-lodious-9449), a music bot built with `Discord.js`. I created this bot three years ago to bring good music and even better vibes to our Discord community, and now, I’m excited to make it public for everyone to enjoy, tweak, and improve.
+Welcome to [Syno-M-lodious](https://github.com/BlackNinjaKR/Syno-M-lodious-9449), a music bot built with `Discord.js`. I created this bot to bring good music and even better vibes to my Discord community, and now, I’m excited to make it public for everyone to enjoy, tweak, and improve.
 
 ### What This Bot Does 🎉
 
